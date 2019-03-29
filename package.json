@@ -2,7 +2,7 @@
   "name": "adriana-galuppo",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://adrianagaluppo.com.br",
+  "homepage": "http://adrianagaluppo.com.br",
   "dependencies": {
     "contentful": "^6.1.1",
     "gh-pages": "^2.0.1",
